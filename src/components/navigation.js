@@ -40,7 +40,25 @@ const Navigation = (props) => {
               <span className="navigation-brand">PinLock Pinneberg</span>
             </div>
           </a>
-         
+                        
+         <div className="navigation-desktop-menu">
+            <div className="navigation-links">
+              <a href="#services">
+                <div className="navigation-link">
+                  <span>Services</span>
+                </div>
+              </a>
+              <a href="#pricing">
+                <div className="navigation-link">
+                  <span>Pricing</span>
+                </div>
+              </a>
+              <a href="#security">
+                <div className="navigation-link">
+                  <span>Security</span>
+                </div>
+              </a>
+            </div>
              
             <div className="navigation-actions">
               <div className="navigation-lang-switcher">
