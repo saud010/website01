@@ -41,17 +41,7 @@ const Navigation = (props) => {
             </div>
           </a>
          
-              </a>
-              <a href="#pricing">
-                <div className="navigation-link">
-                  <span>Pricing</span>
-                </div>
-              </a>
-              <a href="#security">
-                <div className="navigation-link">
-                  <span>Security</span>
-                </div>
-              </a>
+             
             </div>
             <div className="navigation-actions">
               <div className="navigation-lang-switcher">
