@@ -44,7 +44,7 @@ const Navigation = (props) => {
             <div className="navigation-links">
               <a href="#services">
                 <div className="navigation-link">
-                  <span>Services</span>
+                  
                 </div>
               </a>
               <a href="#pricing">
