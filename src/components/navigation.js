@@ -42,7 +42,6 @@ const Navigation = (props) => {
           </a>
          
              
-            </div>
             <div className="navigation-actions">
               <div className="navigation-lang-switcher">
                 <svg
